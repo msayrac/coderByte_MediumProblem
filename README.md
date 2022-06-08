@@ -1,0 +1,2 @@
+# coderByte_MediumProblem
+simpleMode
